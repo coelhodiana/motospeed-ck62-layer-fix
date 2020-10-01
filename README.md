@@ -10,7 +10,7 @@ Essa solução usa autoHotKey https://www.autohotkey.com/
 <p>4_ Pressione Shift e CapsLock</p>
 <p>5_ Aproveite o seu teclado se comportando quaaase perfeitamente</p>
 <br>
-<p>Comandos esquisitos mas que funcionam:</p>
+<p>Comandos esquisitos:</p>
 <p>1_ Use a tecla barra invertida para barra normal e interrogação.</p>
 <p>2_ Capslock + ESC para usar crase ou grave `</p>
 <p>3_ Shift + Capslock + ESC para usar o sinal gráfico Til ~</p>
