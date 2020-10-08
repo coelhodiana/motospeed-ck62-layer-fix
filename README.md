@@ -15,3 +15,7 @@ Essa solução usa autoHotKey https://www.autohotkey.com/
 <p>2_ Capslock + ESC para usar crase ou grave `</p>
 <p>3_ Shift + Capslock + ESC para usar o sinal gráfico Til ~</p>
 <p>4_ Capslock + b para barra invertida \</p>
+<p>5_ CapsLock + f -> Play/Pause</p>
+<p>6_ CapsLock + g -> Stop</p>
+<p>7_ CapsLock + h -> Prev</p>
+<p>8_ CapsLock + j -> Next</p>
