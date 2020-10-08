@@ -35,6 +35,10 @@ CapsLock & Backspace::Delete
 CapsLock & c::Send {vkAFsc130} ;Volume up
 CapsLock & x::Send {vkAEsc12e} ;Volume down
 CapsLock & z::Send {vkADsc120} ;Volume mute
+CapsLock & f::Send {vkB3sc122} ;Media Play Pause
+CapsLock & g::Send {vkB2sc120} ;Media Stop
+CapsLock & h::Send {vkB1sc110} ;Media Prev
+CapsLock & j::Send {vkB0sc119} ;Media Next
 
 CapsLock & [:: Send {PrintScreen}
 CapsLock & ]::Send {Pause}
